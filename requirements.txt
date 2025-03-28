@@ -1,0 +1,5 @@
+streamlit
+openai 
+sqlite3 
+pandas 
+matplotlib 
